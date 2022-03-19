@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-32
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ASH Sing Note LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-65
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ASH Sing Note DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ASH Sing Note UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-60
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ASH Sing Note RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ASH idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-32
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ASH Sing Note LEFTALT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-65
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ASH Sing Note DOWNALT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				2
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ASH Sing Note UPALT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+			-20,
+			-60
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ASH Sing Note RIGHTALT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ash_And_CerbEX",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "AshCerbEX",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
