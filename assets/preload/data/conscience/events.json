@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage",
+		"player1": "bf-ex",
+		"player2": "minishoey-ex",
+		"player3": null,
+		"events": [
+			[
+				156800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mini-ending"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ex",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Conscience"
+	}
+}
