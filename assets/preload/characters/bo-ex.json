@@ -2,76 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				-1,
-				-100
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Jghost idle dance"
-		},
-		{
-			"offsets": [
-				1,
-				-93
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Jghost Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				-39,
-				-99
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Jghost Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				50,
-				-123
+				-66,
+				-280
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Jghost Sing Note DOWN"
+			"name": "bobEX_down"
 		},
 		{
 			"offsets": [
-				12,
-				-83
+				-70,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bobEX_idle"
+		},
+		{
+			"offsets": [
+				-71,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bobEX_left"
+		},
+		{
+			"offsets": [
+				-67,
+				-281
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Jghost Sing Note UP"
+			"name": "bobEX_up"
+		},
+		{
+			"offsets": [
+				-65,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bobEX_right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/JghostEX",
+	"image": "characters/bo",
 	"position": [
-		-500,
-		-200
+		0,
+		0
 	],
-	"healthicon": "jghost-ex",
+	"healthicon": "bo-ex",
 	"flip_x": false,
 	"healthbar_colors": [
-		167,
-		45,
-		42
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		90,
-		160
+		80,
+		250
 	],
 	"sing_duration": 4,
 	"scale": 1

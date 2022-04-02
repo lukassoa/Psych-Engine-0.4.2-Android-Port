@@ -2,65 +2,65 @@
 	"animations": [
 		{
 			"offsets": [
-				-1,
-				-100
+				130,
+				-145
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Jghost idle dance"
+			"name": "Cerberus idle dance"
 		},
 		{
 			"offsets": [
-				1,
-				-93
+				94,
+				-152
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Jghost Sing Note LEFT"
+			"name": "Cerberus Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				-39,
-				-99
+				107,
+				-147
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Jghost Sing Note RIGHT"
+			"name": "Cerberus Sing Note RIGHT"
 		},
 		{
 			"offsets": [
-				50,
-				-123
+				115,
+				-151
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Jghost Sing Note DOWN"
+			"name": "Cerberus Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				12,
-				-83
+				146,
+				-140
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Jghost Sing Note UP"
+			"name": "Cerberus Sing Note UP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/JghostEX",
+	"image": "characters/CerberusEX",
 	"position": [
-		-500,
-		-200
+		-200,
+		0
 	],
 	"healthicon": "jghost-ex",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		42
 	],
 	"camera_position": [
-		90,
-		160
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.8
 }

@@ -3,75 +3,75 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "Bluskys idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				84,
-				-9
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Bluskys Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				-66,
-				-33
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Bluskys Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				33,
-				-18
+				-280
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Bluskys Sing Note DOWN",
+			"name": "bobEX_down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				23,
-				25
+				-70,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bobEX_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-281
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bobEX_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-281
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Bluskys Sing Note UP",
+			"name": "bobEX_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-281
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bobEX_right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BluskysEX",
+	"image": "characters/dreamlol_derp",
 	"position": [
-		70,
-		80
+		0,
+		0
 	],
-	"healthicon": "bluskys-ex",
+	"healthicon": "mcbo",
 	"flip_x": false,
 	"healthbar_colors": [
-		25,
-		85,
-		197
+		216,
+		215,
+		226
 	],
 	"camera_position": [
-		70,
-		40
+		80,
+		250
 	],
 	"sing_duration": 4,
 	"scale": 1

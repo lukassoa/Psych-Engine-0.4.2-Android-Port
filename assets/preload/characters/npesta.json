@@ -2,76 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				-70,
-				-337
+				-62,
+				-58
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "BF idle dance"
+			"name": "Npesta idle dance"
 		},
 		{
 			"offsets": [
-				-59,
-				-342
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				-75,
-				-363
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-74,
-				-352
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-76,
-				-305
+				9,
+				-63
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "BF NOTE UP0"
+			"name": "Npesta Sing Note UP"
+		},
+		{
+			"offsets": [
+				26,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Npesta Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				4,
+				-112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Npesta Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-36,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Npesta Sing Note RIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sansEX",
+	"image": "characters/npesta",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "sans",
-	"flip_x": true,
+	"healthicon": "ron-ex",
+	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		255,
-		255
+		216,
+		0
 	],
 	"camera_position": [
-		100,
-		250
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1
