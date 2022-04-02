@@ -1,0 +1,58 @@
+{
+	"storyName": "In the background",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"groovy-brass",
+			"bluskys-ex",
+			[
+				25,
+				85,
+				197
+			]
+		],
+		[
+			"conscience",
+			"minishoey-ex",
+			[
+				5,
+				199,
+				147
+			]
+		],
+		[
+			"yap-squad",
+			"jghost-ex",
+			[
+				167,
+				45,
+				42
+			]
+		],
+		[
+			"intertwined",
+			"ashncerb-ex",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "In the background"
+}
