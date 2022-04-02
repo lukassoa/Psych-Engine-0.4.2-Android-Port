@@ -4,75 +4,75 @@
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-300
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Bluskys idle dance",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				84,
-				-9
+				170,
+				-339
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Bluskys Sing Note LEFT",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-66,
-				-33
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Bluskys Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				33,
-				-18
+				-44,
+				-445
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Bluskys Sing Note DOWN",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				23,
-				25
+				-32,
+				-186
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Bluskys Sing Note UP",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-340
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/BluskysEX",
+	"no_antialiasing": true,
+	"image": "characters/HE_MAN",
 	"position": [
-		70,
-		80
+		0,
+		0
 	],
-	"healthicon": "bluskys-ex",
+	"healthicon": "ron-ex",
 	"flip_x": false,
 	"healthbar_colors": [
-		25,
-		85,
-		197
+		255,
+		216,
+		0
 	],
 	"camera_position": [
-		70,
-		40
+		130,
+		240
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

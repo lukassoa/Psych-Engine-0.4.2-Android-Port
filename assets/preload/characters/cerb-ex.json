@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-30,
+				-330
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Bluskys idle dance",
+			"name": "Cerb idle dance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				84,
-				-9
+				-5,
+				-329
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Bluskys Sing Note LEFT",
+			"name": "Cerb Sing Note LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-66,
-				-33
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Bluskys Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				33,
-				-18
+				-57,
+				-353
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Bluskys Sing Note DOWN",
+			"name": "Cerb Sing Note DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				23,
-				25
+				-8,
+				-274
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Bluskys Sing Note UP",
+			"name": "Cerb Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-337
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cerb Sing Note RIGHT",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BluskysEX",
+	"image": "characters/CerbEX",
 	"position": [
-		70,
-		80
+		0,
+		0
 	],
-	"healthicon": "bluskys-ex",
+	"healthicon": "ashncerb-ex",
 	"flip_x": false,
 	"healthbar_colors": [
-		25,
-		85,
-		197
+		77,
+		27,
+		86
 	],
 	"camera_position": [
 		70,
-		40
+		260
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

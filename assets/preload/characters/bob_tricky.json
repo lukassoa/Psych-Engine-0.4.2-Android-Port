@@ -2,76 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				-70,
-				-337
+				310,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "BF idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				-59,
-				-342
+				603,
+				-104
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "BF NOTE RIGHT0"
+			"name": "singLEFT"
 		},
 		{
 			"offsets": [
-				-75,
-				-363
+				511,
+				-200
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "BF NOTE DOWN0"
+			"name": "singDOWN"
 		},
 		{
 			"offsets": [
-				-74,
-				-352
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-76,
-				-305
+				584,
+				78
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "BF NOTE UP0"
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				162,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "singRIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sansEX",
+	"image": "characters/Bob_expurgation",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "sans",
-	"flip_x": true,
+	"healthicon": "bo-ex",
+	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		255,
 		255
 	],
 	"camera_position": [
-		100,
-		250
+		-50,
+		60
 	],
 	"sing_duration": 6.1,
 	"scale": 1
